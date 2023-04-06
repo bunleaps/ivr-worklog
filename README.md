@@ -1,4 +1,6 @@
-Fixes:
+# README
+
+**✅ Tasks:**
 - [x] Lambda Input
 - [ ] Lambda Lex Input JSON
 	- [x] Intent 
@@ -19,6 +21,6 @@ Fixes:
 	- [ ] CRUD Data
 - [ ] Assembly
 
-Markdown Fix:
+**🐛 Markdown Fixes:**
 - [ ] Image not show
 - [ ] Links not working
