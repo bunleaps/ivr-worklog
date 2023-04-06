@@ -38,7 +38,7 @@ It is like a variable to fulfil in each run.
 
 ![Slots](./images/Pasted image 20230403133129.png)
 
-![[images/Pasted image 20230403133129.png]]
+![[./images/Pasted image 20230403133129.png]]
 ***Slots**: Require Name, Type & Prompt*
 
 #### Utterances
