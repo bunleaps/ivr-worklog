@@ -1,6 +1,7 @@
 # README
 
-**✅ Tasks:**
+### **✅ Tasks:**
+---
 - [x] Lambda Input
 - [ ] Lambda Lex Input JSON
 	- [x] Intent 
@@ -21,6 +22,10 @@
 	- [ ] CRUD Data
 - [ ] Assembly
 
-**🐛 Markdown Fixes:**
+
+
+
+### **🐛 Markdown Fixes:**
+---
 - [ ] Image not show
 - [ ] Links not working
