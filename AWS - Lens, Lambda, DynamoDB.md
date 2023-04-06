@@ -37,6 +37,7 @@ A slot is an information that Amazon Lex needs to fulfill an intent. Each slot h
 It is like a variable to fulfil in each run.
 
 ![Slots](./images/Pasted image 20230403133129.png)
+
 ![[Pasted image 20230403133129.png]]
 ***Slots**: Require Name, Type & Prompt*
 
@@ -52,6 +53,7 @@ An utterance is something the user is likely to say to express an intent. Since 
 
 #### Connect to Lambda 
 Identify Lambda functions to perform initialization and validation, fulfillment, or both of the intent configuration.
+
 ![Alias](./images/Pasted image 20230403135104.png)
 
 ![[Pasted image 20230403135104.png]]
@@ -244,6 +246,7 @@ Amazon Lex expects a response from a Lambda function in the following format:
 
 #### Log Events - Debugging
 ![Log](./images/Pasted image 20230403140435.png)
+
 ![[Pasted image 20230403140435.png]]
 *We can see the log after each test and debug the applications.*
 
